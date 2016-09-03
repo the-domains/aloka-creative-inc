@@ -1,4 +1,3 @@
-layout_spectrum: 0.0822053023148328
 typography_spectrum: 0.6069257583003491
 color:
   brandStrength: 0.3238762435503304
@@ -11,12 +10,13 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.0822053023148328
 author:
   name: John Oliver
   email: dee.gandhi@gmail.com
   url: www.AlokaCreative.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca93a5d-c39d-43fd-b770-acf6aaf5af95.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae0df3f-cfc6-4463-adb5-fc7864419c09.jpg
 name: Aloka Creative Inc.
 navigation:
   - name: Images
