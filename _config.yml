@@ -11,10 +11,18 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.4749494062270969
+author:
+  name: John Oliver
+  email: dee.gandhi@gmail.com
+  url: www.AlokaCreative.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca93a5d-c39d-43fd-b770-acf6aaf5af95.png
 name: Aloka Creative Inc.
 navigation:
   - name: Images
     url: www.Alokacreative.com
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e708117e-5465-4128-9db5-f3eaf74ba350.jpg
 title: 'Aloka Creative '
 description: Attention is Currency... Get Some.
