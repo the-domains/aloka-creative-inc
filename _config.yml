@@ -1,16 +1,16 @@
-typography_spectrum: 0.2925562500022352
+layout_spectrum: 0.0822053023148328
+typography_spectrum: 0.6069257583003491
 color:
-  brandStrength: 0.6539765528868884
-  lightness: 0.2756958999671042
-  saturation: 0.9752092238049954
-  rhythmicContrast: 0.012404155684635043
+  brandStrength: 0.3238762435503304
+  lightness: 0.5242268592119217
+  saturation: 0.6981371152214706
+  rhythmicContrast: 0.5250435767229646
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.4749494062270969
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 author:
   name: John Oliver
   email: dee.gandhi@gmail.com
