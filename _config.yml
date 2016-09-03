@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.4749494062270969
 name: Aloka Creative Inc.
+navigation:
+  - name: Images
+    url: www.Alokacreative.com
+    type: external
 title: 'Aloka Creative '
 description: Attention is Currency... Get Some.
